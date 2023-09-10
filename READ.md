@@ -45,3 +45,15 @@
 12、git remote rm  仓库名：现在想要解除与某个远程仓库的连接
 
 13、git clone 仓库网址：克隆仓库到本地工作区
+
+[参考链接](https://blog.csdn.net/qq_45897239/article/details/131870120)
+
+14、git branch：查看本地分支 	git branch -r：查看远程分支	git branch -a 查看所有分支
+
+15、git branch (branchname)：新建一个分支，git branch -d (branchname) ：删除一个分支
+
+16、git checkout (branchname)：切换分支
+
+![image-20230910122137122](C:\Users\wpp\AppData\Roaming\Typora\typora-user-images\image-20230910122137122.png)
+
+17、 git pull cangku master --allow-unrelated-histories ：把远程分支和本地分支合并
