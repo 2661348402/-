@@ -1,0 +1,36 @@
+name    sum    chinese    english    math
+李四    0    25    25    25
+张三    0    100    100    100
+
+
+为只支持GET和POST的低级REST客户端搭建支撑的桥梁
+
+Bridging Low REST clients, which only support GET and POST
+
+www.infoq.com
+2
+
+下面是一个客户端调用的C代码
+
+Here is an example of how a client's C code might look like
+
+blog.sina.com.cn
+3
+
+Windows客户端行为实时监控系统设计与实现
+
+Design and Implementation of Real-Time Monitoring System for Windows Client
+
+www.dictall.com
+4
+
+基于AJAX的Web GIS客户端技术研究
+
+Research on Web GIS Client Technology Based on AJAX
+
+www.dictall.com
+5
+
+此向导将把目录服务客户端安装到您的windows操作系统中。
+
+This wizard installs the directory service client for windows onto your Windows operating system. 
